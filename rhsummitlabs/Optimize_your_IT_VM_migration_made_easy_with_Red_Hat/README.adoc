@@ -13,7 +13,7 @@ This Lab Environment uses Red Hat CloudForms, and the Infrastructure Migration p
  
 The provided configuration steps include:
 
-* Check the ocnfiguration of the conversion hosts in the target provider (RHV)
+* Check the configuration of the conversion hosts in the target provider (RHV)
 * Check credentials for virtualization providers and conversion hosts in CloudForms
 * Assign tags for the conversion hosts in CloudForms
 * CSV file created for the chosen VMs to be migrated
