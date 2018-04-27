@@ -170,7 +170,7 @@ The log entries are very long, so it helps if you stretch this window as wide as
 [NOTE]
 The log entries can be also seen in the CloudForms web UI in *Automation -> Automate -> Log*.
 
-. Verify that the Ticket Monster app is running:
+. Verify the Ticket Monster app is running:
 
 * Point your browser to https://app-<YOUR-GUID>.rhpds.opentlc.com and check it is running:
 +
@@ -193,7 +193,7 @@ You must accept all of the self-signed SSL certificates.
 +
 image::rhv_login.png[RHV Login]
 
-.. Verify that the Cluster is up and Hypervisors are active
+.. Verify the Cluster is up and Hypervisors are active
 +
 [TIP]
 As this is nested virtualization, sometimes the CPU type of the hypervisor is changed. 
