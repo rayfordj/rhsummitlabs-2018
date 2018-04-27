@@ -407,7 +407,7 @@ image::migration_running_3.png[Migration Running 3]
 # ansible app -m ping
 ----
 
-. It's time to check the *app* running and accesible via the URL https://app-<YOUR-GUID>.rhpds.opentlc.com
+. It's time to check the *app* running and accessible via the URL https://app-<YOUR-GUID>.rhpds.opentlc.com
 +
 image::migration_running_5.png[Migration Running 5]
 
