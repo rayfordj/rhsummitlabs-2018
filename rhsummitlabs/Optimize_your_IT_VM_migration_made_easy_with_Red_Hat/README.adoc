@@ -151,7 +151,7 @@ To check only if these ones are running, you may use the following command:
 # ansible app -m ping
 ----
 + 
-To check the infrastructure machines the followinf command can be also used:
+To check the infrastructure machines the following command can be also used:
 +
 ----
 # ansible infra -m ping
