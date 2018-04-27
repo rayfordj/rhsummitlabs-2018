@@ -73,7 +73,7 @@ image::lab_guid_grab1.png[Lab GUID Grab 1]
 +
 image::lab_guid_grab2.png[Lab GUID Grab 2]
 
-. You will have yout *Lab GUID* and will be able to start. In this example *YOUR-GUID* is `a2ce`
+. You will have your *Lab GUID* and will be able to start. In this example *YOUR-GUID* is `a2ce`
 +
 image::lab_guid_grab3.png[Lab GUID Grab 3]
 
