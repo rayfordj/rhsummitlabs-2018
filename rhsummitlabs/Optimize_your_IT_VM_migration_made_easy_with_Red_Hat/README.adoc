@@ -355,11 +355,11 @@ To get the VM ids, for the CVS file, can be obtained from a web browser by acces
 +
 [TIP]
 To get the VM ids via command line, the following commands can be run in ManageIQ/CloudForms:
-----
+```
 # cd /var/www/miq/vmdb
 # bundle exec rails c
 irb> Vm.find_by(:name => "<VM_NAME>").id
-----
+```
 +
 [WARNING]
 If the CloudForms environment has been reconfigured, the csv file may need ot be regenerated as the VM ids in CloudForms could have changed.
