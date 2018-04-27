@@ -284,7 +284,7 @@ image::conversion_host_3.png[Conversion Host 3]
 +
 image::conversion_host_6.png[Conversion Host 6]
 +
-* This values can also be seen in the *Smart Management* box in the host description
+* These values may also be observed in the *Smart Management* box in the host description
 +
 image::conversion_host_7.png[Conversion Host 7]
 
