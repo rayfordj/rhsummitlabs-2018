@@ -280,7 +280,7 @@ image::conversion_host_2.png[Conversion Host 2]
 +
 image::conversion_host_3.png[Conversion Host 3]
 
-. Check that *V2V - Transformation Host* has value *t* (for true) and that *V2V - Transformation Method* tag has value *VDDK*. Click *Cancel*.
+. Confirm *V2V - Transformation Host* has value *t* (for true) and that *V2V - Transformation Method* tag has value *VDDK*. Click *Cancel*.
 +
 image::conversion_host_6.png[Conversion Host 6]
 +
@@ -292,7 +292,7 @@ image::conversion_host_7.png[Conversion Host 7]
 +
 image::conversion_host_8.png[Conversion Host 8]
 
-. Check that *Username* has `root` and Password is set. You can click *Validate* to verify they are OK then the message "Credential validation was successful" will appear. This is needed to be able to connect to the conversion host and initiate the conversion.
+. Confirm *Username* has `root` and Password is set. You can click *Validate* to verify they are OK then the message "Credential validation was successful" will appear. This is needed to be able to connect to the conversion host and initiate the conversion.
 +
 image::conversion_host_9.png[Conversion Host 9]
 
