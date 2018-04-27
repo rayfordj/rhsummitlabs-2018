@@ -367,7 +367,7 @@ If the CloudForms environment has been reconfigured, the csv file may need to be
 +
 image::migration_plan_4.png[Migration Plan 4]
 
-. The list of the VMs to be migrated shall appear in on screen. Review and click *create*.
+. The list of the VMs to be migrated shall appear on screen. Review and click *create*.
 +
 image::migration_plan_5.png[Migration Plan 5]
 
