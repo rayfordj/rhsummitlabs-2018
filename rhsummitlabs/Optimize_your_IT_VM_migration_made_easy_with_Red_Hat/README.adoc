@@ -216,7 +216,7 @@ image::vsphere_web_client_1.png[vSphere Web Client Login]
 [WARNING]
 Use `root` as the username to log in to vCenter.
 
-* Click *Click on VMs and Templates*.
+* Click *VMs and Templates*.
 +
 image::vsphere_web_client_2.png[vCenter]
 
